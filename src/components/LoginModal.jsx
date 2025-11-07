@@ -86,7 +86,7 @@ const Input = styled.input`
 `;
 
 const Button = styled.button`
-  background-color: #10b981;
+  background-color: #9110b9ff;
   color: white;
   font-weight: 600;
   border: none;
@@ -96,7 +96,7 @@ const Button = styled.button`
   transition: background 0.2s;
 
   &:hover {
-    background-color: #059669;
+    background-color: #790596ff;
   }
 `;
 
